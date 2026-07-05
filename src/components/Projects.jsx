@@ -76,8 +76,16 @@ const Project = () => {
                 </div>
               </div>
               <div className="card-footer bg-white border-0 pb-3">
+                  <a
+                  href="https://port-folio-website-sb3u-mu.vercel.app/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="btn btn-danger me-2"
+                >
+                  Live Demo
+                </a>
                 <a
-                  href=""
+                  href="https://github.com/akaSachin/PortFolio_Website"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn btn-outline-dark"
